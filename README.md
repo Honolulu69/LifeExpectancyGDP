@@ -32,7 +32,7 @@ The highest GDP is 1.810000e+13 US dollars.
 The smallest life expectancy is 44.
 The smallest GDP is 4.415703e+09 US dollars.
 
-Observations (Part II)
+# Observations (Part II)
 Based on the plots we see one outlier for life expectancy (Zimbabwe), and the other outlier for GDP (USA). Median life expectancy is around 77 years. Median GDP is around 200 billion US dollars.
 GDP increased over time in all countries.
 Life expectancy increased over time in all countries.
